@@ -2,7 +2,7 @@
   "name": "blindness-coding",
   "private": true,
   "dependencies": {
-    "browser-sync": "^2.26.3"
+    "browser-sync": "2.26.3"
   },
   "scripts": {
     "start": "browser-sync start --server --files '*.css, *.html' --no-open --no-ui --tunnel"
