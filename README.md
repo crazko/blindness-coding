@@ -18,3 +18,7 @@ Auto-saving option is recommended to automatically refresh the browser. Currentl
 1. open `index.html` (and don't leave the editor 😆)
 1. start coding!
 1. (optional) when time runs out push your code to the new branch
+
+## more inspiration
+
+- https://mixmax.com/blog/daredev-part-e-sports-event-part-blind-coding-party/
