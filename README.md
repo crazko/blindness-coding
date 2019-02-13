@@ -1,21 +1,20 @@
 # blindness coding
 
-## prepare
+Inspired by [Code in the Dark](http://codeinthedark.com/), this repository provides a simple yet fully-working solution for your own contest in HTML+CSS blind coding. You can use your favorite editor and share your progress live in `index.html` thanks to tunneling so the audience can watch multiple contestants on the projector.
 
-```
-npm i
-```
+Auto-saving option is recommended to automatically refresh the browser. Currently, configuration for [vscode](https://code.visualstudio.com/) is included.
 
-## start
+[Original concept](https://github.com/codeinthedark/codeinthedark.github.io):
 
-```
-npm start
-```
+> Code in the Dark is a front-end (HTML, CSS) competition, ..., where each contestant compete to implement a website design given only a screenshot. The catch is that no previews of the results are allowed during the implementation, and no measuring tools can be used. The winner is decided by the audience.
 
-share your **tunnel url**, or
+## instructions
 
-```
-npm start <my-custom-name>
-```
-
-share your tunnel `https://<my-custom-name>.localtunnel.me`.
+1. clone this repository and install dependencies `npm i`
+1. open your editor and be sure **auto-saving** is _enabled_
+1. start tunneling with:
+    - `npm start` - share your **tunnel url**
+    - `npm start <my-custom-name>` - share your tunnel `https://<my-custom-name>.localtunnel.me`
+1. open `index.html` (and don't leave the editor 😆)
+1. start coding!
+1. (optional) when time runs out push your code to the new branch
