@@ -22,3 +22,9 @@ Auto-saving option is recommended to automatically refresh the browser. Currentl
 ## more inspiration
 
 - https://mixmax.com/blog/daredev-part-e-sports-event-part-blind-coding-party/
+
+## faq
+
+### Why there is some predefined source code in the `index.html`?
+
+[Browsersync needs `<body>` tag](https://www.browsersync.io/docs#requirements) during initial request to inject script responsible for site refresh. Also, your editor comes with snippets functionality anyway.
