@@ -31,4 +31,4 @@ Auto-saving option is recommended to automatically refresh the browser. Currentl
 
 ### Is my screen being shared when I start tunneling?
 
-No. Only the content of your `intex.html` file (and any CSS file in case you create some).
+No. Only the content of your `index.html` file (and any CSS file in case you create some).
