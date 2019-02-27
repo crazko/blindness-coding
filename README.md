@@ -28,3 +28,7 @@ Auto-saving option is recommended to automatically refresh the browser. Currentl
 ### Why there is some predefined source code in the `index.html`?
 
 [Browsersync needs `<body>` tag](https://www.browsersync.io/docs#requirements) during initial request to inject script responsible for site refresh. Also, your editor comes with snippets functionality anyway.
+
+### Is my screen being shared when I start tunneling?
+
+No. Only the content of your `intex.html` file (and any CSS file in case you create some).
