@@ -27,7 +27,7 @@ Auto-saving option is recommended to automatically refresh the browser. Currentl
 
 ### What is the recommended setup?
 
-Have a look here https://romanvesely.com/code-together-and-have-fun/.
+Have a look here https://romanvesely.com/code-together-and-have-fun/#setup-and-technical-aspects.
 
 ### Why there is some predefined source code in the `index.html`?
 
